@@ -1,0 +1,25 @@
+/* https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/272px-Google_2015_logo.svg.png?20160213081640 */
+.menu-icon,
+.user
+ {
+    height: 30px;
+}
+.google-logo{
+    margin: 192px 0 30px;
+    height: 100px;
+}
+.search-voice,
+.search-icon
+{
+    height: 15px;
+}
+.search-icon{
+    /* background-color: red; */
+}
+.searchbar{
+    outline:none;
+}
+#search{
+    max-width: 561px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.247);
+}
